@@ -1,0 +1,32 @@
+_repo: Anthero-do-Quental-e-Ramalho-Ortig-o_32645
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carvalhal, Alvaro do
+    aliases:
+    - Do Carvalhal, Alvaro
+    - Carvalhal, Álvaro do
+    gutenberg_agent_id: '35959'
+    url: http://www.gutenberg.org/2009/agents/35959
+description: ''
+gutenberg_bookshelf: PT Política e Sociedade
+gutenberg_issued: '2010-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32645'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quental, Antero de, 1842-1891 -- Criticism and interpretation'
+- !lcsh 'Castelo Branco, António de Azevedo -- Correspondence'
+- !lcsh 'Ortigão, Ramalho, 1836-1915 -- Criticism and interpretation'
+- !lcsh 'Carvalhal, Alvaro do -- Correspondence'
+- !lcc 'PQ'
+- !lcsh 'Portuguese literature -- 19th century -- History and criticism'
+title: Anthero do Quental, e Ramalho Ortigão
+url: http://www.gutenberg.org/ebooks/32645
